@@ -82,5 +82,3 @@ for images, labels in test_loader:
 print('Accuracy of the model on the 10000 test images: % d %%' % ( 
             100 * correct / total)) 
 
-# This code is modified by Susobhan Akhuli
-
